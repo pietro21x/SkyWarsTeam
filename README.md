@@ -1,0 +1,2 @@
+# SkyWarsTeam
+Plugin PocketMine SkyWarsTeam 
